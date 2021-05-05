@@ -64,10 +64,10 @@ def main():
     count = 0
     bix()
     while var == True:
-        time.sleep(1)
+        time.sleep(1200)
         count = count + 1
         nix()
-        time.sleep(1)
+        time.sleep(300)
         cix()
         if hynix == True:
             continue
